@@ -1,0 +1,7 @@
+git 
+
+git clone
+git push
+git pull
+git merge
+git log --oneline
